@@ -1,0 +1,53 @@
+---
+title: "Lucy Njoki Njuki"
+image: "luc_pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lucy-njoki/"
+  - label: GitHub
+    url: "https://github.com/LucyNjoki"
+  - label: Twitter
+    url: "https://twitter.com/lucy_njokinjuki"
+  - label: ResearchGate  
+    url: "https://www.researchgate.net/profile/Lucy-Njoki"
+  - label: Google Scholar  
+    url: ""
+output:
+  postcards::solana
+---
+
+I am Lucy Njoki Njuki, currently employed as a Research Assistant at the Centre for Epidemiology VS Arthritis at the University of Manchester. I will soon be assuming the role of Data Analyst at the University of Oxford. Simultaneously, I am pursuing my MSc in Statistics and Data Science (Biostatistics) as a part-time second-year student at Hasselt University through a distance learning program. Alongside my academic pursuits, I actively contribute to the R community and serve as an organiser for R-Ladies Nairobi chapter.
+
+
+## Talks
+
+In this section, I present the collection of talks I have delivered thus far throughout my early career as a researcher.
+
+1. Speaker | R User Group University of Manchester | [R.U.M - Publication Ready Tables - User-defined functions to create summary tables](https://lucynjuki.github.io/R.U.M-publication-ready-tables/) | [Resources](https://github.com/LucyNjoki/R.U.M-publication-ready-tables)
+
+2. Regular speaker| [Shiny Conference 2023](https://shinyconf.appsilon.com/) | [Making Project Management Seemless](https://lucy-njuki.shinyapps.io/Gantt_Chart_ShinyConfy2023/) | [Resources](https://github.com/LucyNjuki/Shiny-Confy-2023) | [Recording](https://youtu.be/Gyc_hp-r7qc)
+
+3. Panellist | [Shiny Conference 2022](https://hopin.com/events/shinyconference2022) | "Women in Shiny" with R-Ladies | [Recording](https://youtu.be/nSwSy0jd4g0)
+
+4. Guest speaker | NamibiaR Launch Event | [Slides](https://github.com/rladies/meetup-presentations_nairobi/blob/master/NamibiaR%20Launch%20Event/NamibiaR_Lauch_by_NNL_R-LadiesNairobi.pptx) 
+
+5. Keynote speaker | R-Ladies Gaborone Launch Event | [Slides](https://github.com/LucyNjoki/R-LadiesGaborone-Launch/blob/main/R-Ladies%20Gaborone%20Launch_NNL.pdf) | [Recording](https://youtu.be/8Di33E2jBJM)
+
+6. Presenter | Modelling Risk Factors of Oesophagus Cancer, Case Study of Nairobi County, 2009 – 2011 | 1st University of Nairobi International Biostatistics Conference
+
+## Trainings
+
+This section lists the trainings I have done plus resources to reproduce what I trained.
+
+1. **Data Manipulation with `data.table` in R ** | [Resources](https://github.com/LucyNjoki/R-LadiesAbuja_Data-Manipulation-with-data.table-in-R) | [Recording](https://youtu.be/3jp8cCV6oMg) 
+
+## Microblogs `r emojifont::emoji("sunglasses")`
+
+Within this section, I will provide a compilation of concise blog entries that can be valuable to individuals utilising R.
+
+1. [R can help choose dinner `r emo::ji("shallow_pan_of_food")``r emo::ji("sunglasses")` - An illustration of randomly selecting rows of a dataframe](https://lucynjoki.github.io/randomly-selecting-rows-of-a-dataframe/) | [GitHub Repo](https://github.com/LucyNjoki/randomly-selecting-rows-of-a-dataframe)
+
+2. [User- defined Function to Create a ggplot2 plot](https://lucynjoki.github.io/User-defined-Function-to-Create-a-ggplot2-plot/) | [GitHub Repo](https://github.com/LucyNjoki/User-defined-Function-to-Create-a-ggplot2-plot)
+
+
+... Other stuff to come `r emojifont::emoji("smile")` such as trainings I have attended, my technical skills etc.
