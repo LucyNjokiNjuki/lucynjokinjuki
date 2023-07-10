@@ -50,4 +50,4 @@ Within this section, I will provide a compilation of concise blog entries that c
 2. [User- defined Function to Create a ggplot2 plot](https://lucynjoki.github.io/User-defined-Function-to-Create-a-ggplot2-plot/) | [GitHub Repo](https://github.com/LucyNjoki/User-defined-Function-to-Create-a-ggplot2-plot)
 
 
-... Other stuff to come `r emojifont::emoji("smile")` such as trainings I have attended, my technical skills etc.
+... Other stuff to come such as trainings I have attended, my technical skills etc. `r emojifont::emoji("smile")`
