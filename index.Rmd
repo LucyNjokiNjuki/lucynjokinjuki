@@ -16,7 +16,7 @@ output:
   postcards::solana
 ---
 
-I am Lucy Njoki Njuki, currently employed as a Research Assistant at the Centre for Epidemiology VS Arthritis at the University of Manchester. I will soon be assuming the role of Data Analyst at the University of Oxford. Simultaneously, I am pursuing my MSc in Statistics and Data Science (Biostatistics) as a part-time second-year student at Hasselt University through a distance learning program. Alongside my academic pursuits, I actively contribute to the R community and serve as an organiser for R-Ladies Nairobi chapter.
+I am Lucy Njoki Njuki, currently employed as a Research Assistant at the Centre for Epidemiology VS Arthritis at the University of Manchester. Simultaneously, I am pursuing my MSc in Statistics and Data Science (Biostatistics) as a part-time second-year student at Hasselt University through a distance learning program. Alongside my academic pursuits, I actively contribute to the R community and serve as an organiser for R-Ladies Nairobi chapter.
 
 
 ## Talks
