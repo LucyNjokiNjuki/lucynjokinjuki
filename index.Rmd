@@ -16,7 +16,7 @@ output:
   postcards::solana
 ---
 
-I am Lucy Njoki Njuki, currently employed as a Research Assistant at the Centre for Epidemiology VS Arthritis at the University of Manchester. Simultaneously, I am pursuing my MSc in Statistics and Data Science (Biostatistics) as a part-time second-year student at Hasselt University through a distance learning program. Alongside my academic pursuits, I actively contribute to the R community and serve as an organiser for R-Ladies Nairobi chapter.
+I am Lucy Njoki Njuki, currently employed as a Data Analyst at the [Nufflied Department of Orthopaedics, Rheumatology and Musculoskeletal Scienes (NDORMS), University of Oxford](https://www.ndorms.ox.ac.uk/). Simultaneously, I am pursuing my MSc in Statistics and Data Science (Biostatistics) as a part-time second-year student at Hasselt University through a distance learning program. Alongside my academic pursuits, I actively contribute to the R community and serve as an organiser for R-Ladies Nairobi chapter.
 
 
 ## Talks
@@ -37,7 +37,7 @@ In this section, I present the collection of talks I have delivered thus far thr
 
 ## Trainings
 
-This section lists the trainings I have done plus resources to reproduce what I trained.
+This section lists the training I have done plus resources to reproduce what I trained.
 
 1. **Data Manipulation with `data.table` in R ** | [Resources](https://github.com/LucyNjoki/R-LadiesAbuja_Data-Manipulation-with-data.table-in-R) | [Recording](https://youtu.be/3jp8cCV6oMg) 
 
