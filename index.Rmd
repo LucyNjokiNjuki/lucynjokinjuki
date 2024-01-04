@@ -9,15 +9,23 @@ links:
   - label: Twitter
     url: "https://twitter.com/lucy_njokinjuki"
   - label: ResearchGate  
-    url: "https://www.researchgate.net/profile/Lucy-Njoki"
+    url: "https://www.researchgate.net/profile/Lucy-Njuki"
   - label: Google Scholar  
-    url: ""
+    url: "https://scholar.google.com/citations?user=R1SNin0AAAAJ&hl=en"
 output:
   postcards::solana
 ---
 
-I am Lucy Njoki Njuki, currently employed as a Data Analyst at the [Nufflied Department of Orthopaedics, Rheumatology and Musculoskeletal Scienes (NDORMS), University of Oxford](https://www.ndorms.ox.ac.uk/). Simultaneously, I am pursuing my MSc in Statistics and Data Science (Biostatistics) as a part-time second-year student at Hasselt University through a distance learning program. Alongside my academic pursuits, I actively contribute to the R community and serve as an organiser for R-Ladies Nairobi chapter.
+I am Lucy Njoki Njuki, currently employed as a Data Analyst at the [Nufflied Department of Orthopaedics, Rheumatology and Musculoskeletal Scienes (NDORMS), University of Oxford](https://www.ndorms.ox.ac.uk/). 
 
+Simultaneously, I am pursuing my MSc in Statistics and Data Science (Biostatistics) as a part-time second-year student at Hasselt University through a distance learning program. Alongside my academic pursuits, I actively contribute to the R community and serve as an organiser for [R-Ladies Nairobi chapter](https://www.meetup.com/rladies-nairobi/).
+
+
+## Research Articles
+
+Owango, J., & Njuki, N. (2021). Statistics with R - A Beginner’s Perspective. TCC Africa. https://doi.org/10.21428/359fb1d2.10dfb712
+
+Druce, K. L., Yimer, B. B., Humphreys, J., Njuki, L. N., Bourke, D., Li, M., ... & McBeth, J. (2023). The epidemiology of psoriatic arthritis in the UK: a health intelligence analysis of UK Primary Care Electronic Health Records 1991–2020. Rheumatology, kead586.
 
 ## Talks
 
@@ -41,11 +49,12 @@ This section lists the training I have done plus resources to reproduce what I t
 
 1. **Data Manipulation with `data.table` in R ** | [Resources](https://github.com/LucyNjoki/R-LadiesAbuja_Data-Manipulation-with-data.table-in-R) | [Recording](https://youtu.be/3jp8cCV6oMg) 
 
+
 ## Microblogs `r emojifont::emoji("sunglasses")`
 
 Within this section, I will provide a compilation of concise blog entries that can be valuable to individuals utilising R.
 
-1. [R can help choose dinner `r emo::ji("shallow_pan_of_food")``r emo::ji("sunglasses")` - An illustration of randomly selecting rows of a dataframe](https://lucynjoki.github.io/randomly-selecting-rows-of-a-dataframe/) | [GitHub Repo](https://github.com/LucyNjoki/randomly-selecting-rows-of-a-dataframe)
+1. [R can help choose dinner `r emojifont::emoji("shallow_pan_of_food")``r emojifont::emoji("sunglasses")` - An illustration of randomly selecting rows of a dataframe](https://lucynjoki.github.io/randomly-selecting-rows-of-a-dataframe/) | [GitHub Repo](https://github.com/LucyNjoki/randomly-selecting-rows-of-a-dataframe)
 
 2. [User- defined Function to Create a ggplot2 plot](https://lucynjoki.github.io/User-defined-Function-to-Create-a-ggplot2-plot/) | [GitHub Repo](https://github.com/LucyNjoki/User-defined-Function-to-Create-a-ggplot2-plot)
 
