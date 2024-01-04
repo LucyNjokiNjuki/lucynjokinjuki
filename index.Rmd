@@ -1,6 +1,6 @@
 ---
 title: "Lucy Njoki Njuki"
-image: "luc_pic.jpg"
+image: "bird_pic.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/lucy-njoki/"
@@ -34,6 +34,8 @@ In this section, I present the collection of talks I have delivered thus far thr
 1. Speaker | R User Group University of Manchester | [R.U.M - Publication Ready Tables - User-defined functions to create summary tables](https://lucynjuki.github.io/R.U.M-publication-ready-tables/) | [Resources](https://github.com/LucyNjoki/R.U.M-publication-ready-tables)
 
 2. Regular speaker| [Shiny Conference 2023](https://shinyconf.appsilon.com/) | [Making Project Management Seemless](https://lucy-njuki.shinyapps.io/Gantt_Chart_ShinyConfy2023/) | [Resources](https://github.com/LucyNjuki/Shiny-Confy-2023) | [Recording](https://youtu.be/Gyc_hp-r7qc)
+
+3. Regular speaker| [useR! 2022 Conference](https://user2022.r-project.org/program/talks/#session-10-building-the-r-community-1) Building an R-Ladies community during the COVID-19 pandemic| [Slides](https://github.com/rladies/meetup-presentations_nairobi/tree/master/useR!%202022%20-%20Regular%20Talk)
 
 3. Panellist | [Shiny Conference 2022](https://hopin.com/events/shinyconference2022) | "Women in Shiny" with R-Ladies | [Recording](https://youtu.be/nSwSy0jd4g0)
 
