@@ -1,5 +1,19 @@
-# My personal Website 🤓
+## Hi there, I'm Njoki Njuki
 
-My simple website was created using the packages: [postcards](https://github.com/seankross/postcards) and [R Markdown](https://rmarkdown.rstudio.com/lesson-13.html).
+- I'm a Data Analyst in the Health Economics Group within the NDORMS Department at the University of Oxford, UK.
+- I’m also a second-year MSc Statistics and Data Science (Biostatistics) student at Hasselt University, Belgium.
+- 📚 Currently training to become a Biostatistician. 📈
+- I'm the organizer of R-Ladies Nairobi. 😊
+- I'm a member of the R for Data Science Book Club and rainbowR — always learning! 😊
+- ⚡ Facts About Me:
+  - I am openly queer! 🫶🏿 🌈
+  - Yes I! I am a Rastafari! Reggae roots conscious! ❤️💛💚
+  - I love playing racing computer games 🎮.
+  - I recently got into butterfly games on my phone with my partner 🦋.
+  - I adore reading crime and romance novels, as well as scientific blogs about advancements in science and AI!
 
-A starting point, for anyone interested in creating their own simple website: [Create and Host Your Personal Website in a Few Minutes using R by Keith McNulty](https://towardsdatascience.com/create-and-host-your-personal-website-in-a-few-minutes-using-r-9c94e87e2942).
+## Connect with Me:
+
+- [Twitter](https://twitter.com/lucy_njokinjuki)
+- [LinkedIn](https://www.linkedin.com/in/lucy-njoki/)
+- [Personal Website](https://lucynjokinjuki.github.io/lucynjokinjuki/)
